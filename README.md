@@ -1,0 +1,1 @@
+This repository contains a VHDL register file with a potential bug. The bug is related to out-of-bounds array access.  The solution demonstrates how to prevent this bug by adding range checks.
